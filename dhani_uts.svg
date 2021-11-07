@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="124 159 709 565" width="585px" height="406px" xmlns="http://www.w3.org/2000/svg" version="1.1">
+   <rect width="122" height="20" x="572" y="410" style="fill:#007;stroke:black;"/>
+   <text width="122" height="20" x="577" y="424" style="fill:#fff;" font-family="Arial" font-size="16px"> pelanggan</text>
+   <rect width="122" height="20" x="572" y="430" style="fill:#aea;stroke:black;"/>
+   <text width="122" height="20" x="577" y="444" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="122" height="20" x="572" y="450" style="fill:none;stroke:black;"/>
+   <text width="122" height="20" x="577" y="464" style="fill:black;" font-family="Arial" font-size="16px">CustomerName</text>
+   <rect width="122" height="20" x="572" y="470" style="fill:none;stroke:black;"/>
+   <text width="122" height="20" x="577" y="484" style="fill:black;" font-family="Arial" font-size="16px">addressLine1</text>
+   <rect width="122" height="20" x="572" y="490" style="fill:none;stroke:black;"/>
+   <text width="122" height="20" x="577" y="504" style="fill:black;" font-family="Arial" font-size="16px">namaPegawai</text>
+   <rect width="122" height="20" x="572" y="510" style="fill:none;stroke:black;"/>
+   <text width="122" height="20" x="577" y="524" style="fill:black;" font-family="Arial" font-size="16px">paymentDate</text>
+   <rect width="122" height="20" x="572" y="530" style="fill:none;stroke:black;"/>
+   <text width="122" height="20" x="577" y="544" style="fill:black;" font-family="Arial" font-size="16px">amount</text>
+   <rect width="125" height="20" x="139" y="385" style="fill:#007;stroke:black;"/>
+   <text width="125" height="20" x="144" y="399" style="fill:#fff;" font-family="Arial" font-size="16px"> pesanan</text>
+   <rect width="125" height="20" x="139" y="405" style="fill:#aea;stroke:black;"/>
+   <text width="125" height="20" x="144" y="419" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="125" height="20" x="139" y="425" style="fill:none;stroke:black;"/>
+   <text width="125" height="20" x="144" y="439" style="fill:black;" font-family="Arial" font-size="16px">CustomerName</text>
+   <rect width="125" height="20" x="139" y="445" style="fill:none;stroke:black;"/>
+   <text width="125" height="20" x="144" y="459" style="fill:black;" font-family="Arial" font-size="16px">orderDate</text>
+   <rect width="125" height="20" x="139" y="465" style="fill:none;stroke:black;"/>
+   <text width="125" height="20" x="144" y="479" style="fill:black;" font-family="Arial" font-size="16px">orderNumber</text>
+   <rect width="125" height="20" x="139" y="485" style="fill:none;stroke:black;"/>
+   <text width="125" height="20" x="144" y="499" style="fill:black;" font-family="Arial" font-size="16px">quantityOrdered</text>
+   <rect width="125" height="20" x="139" y="505" style="fill:none;stroke:black;"/>
+   <text width="125" height="20" x="144" y="519" style="fill:black;" font-family="Arial" font-size="16px">status</text>
+   <rect width="102" height="20" x="358" y="174" style="fill:#007;stroke:black;"/>
+   <text width="102" height="20" x="363" y="188" style="fill:#fff;" font-family="Arial" font-size="16px"> produk</text>
+   <rect width="102" height="20" x="358" y="194" style="fill:#aea;stroke:black;"/>
+   <text width="102" height="20" x="363" y="208" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="102" height="20" x="358" y="214" style="fill:none;stroke:black;"/>
+   <text width="102" height="20" x="363" y="228" style="fill:black;" font-family="Arial" font-size="16px">namaProduk</text>
+   <rect width="102" height="20" x="358" y="234" style="fill:none;stroke:black;"/>
+   <text width="102" height="20" x="363" y="248" style="fill:black;" font-family="Arial" font-size="16px">namaVendor</text>
+   <rect width="102" height="20" x="358" y="254" style="fill:none;stroke:black;"/>
+   <text width="102" height="20" x="363" y="268" style="fill:black;" font-family="Arial" font-size="16px">jumlahStok</text>
+   <rect width="102" height="20" x="358" y="274" style="fill:none;stroke:black;"/>
+   <text width="102" height="20" x="363" y="288" style="fill:black;" font-family="Arial" font-size="16px">kategori</text>
+   <rect width="102" height="20" x="358" y="294" style="fill:none;stroke:black;"/>
+   <text width="102" height="20" x="363" y="308" style="fill:black;" font-family="Arial" font-size="16px">jumlahOrder</text>
+</svg>
